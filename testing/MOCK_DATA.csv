@@ -1,0 +1,11 @@
+id,age,weight,height,gender,body
+1,18,60,180,Genderqueer,thin
+2,87,268,167,Male,fat
+3,110,96,189,Male,fat
+4,19,40,177,Female,slim
+5,20,80,190,Genderqueer,thin
+6,71,100,190,Non-binary,fat
+7,76,80,185,Genderfluid,thin
+8,14,62,173,Female,thin
+9,52,85,194,Male,thin
+10,65,57,195,Female,slim
